@@ -7,7 +7,7 @@
 <br>
 3-Run     ```npm install react-scripts  ``` on cmd </h3>
 <br>
-4-Now go to the folder (in terminal) where the     ```site-app  ``` is saved <br>for eg-     ```cd C:\ZZZZZ IDHAR\Portfolio site\Personal-portfolio\site-app  ```
+4-Now go to the folder (in terminal) where the     ```site-app  ``` is saved <br>for eg-```cd C:\ZZZZZ IDHAR\Portfolio site\Personal-portfolio\site-app  ```
 <br>
 5-In the terminal run     ```npm install  ``` (Given that u already have installed npm )
 <br>
