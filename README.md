@@ -1,6 +1,6 @@
 <h1> Installing instructions (For Windows)</h1>
 <p>1-Install node.js LTS version from <a href="https://nodejs.org/en/">here</a></p>
-<h3>2-Run     ```npm install -g create-react-app --save  ``` on cmd </h3>
+<p>2-Run     ```npm install -g create-react-app --save  ``` on cmd </p>
 <h3>3-Run     ```npm install create-react-app  ``` on cmd </h3>
 <h3>3-Run     ```npm install react-scripts  ``` on cmd </h3>
 <h3>4-Now go to the folder (in terminal) where the     ```site-app  ``` is saved <br>for eg-     ```cd C:\ZZZZZ IDHAR\Portfolio site\Personal-portfolio\site-app  ```</h3>
